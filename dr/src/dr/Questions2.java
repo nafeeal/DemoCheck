@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-// FIX THE OUTPUT FILE ON ROW 36.
+// FIX THE OUTPUT FILE ON ROW 38.
 
 public class Questions2 {
 	
